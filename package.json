@@ -1,0 +1,21 @@
+{
+  "name": "portafoliocarloshidalgo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "test2": "npx parcel ./src/index.html"
+  },
+  "type": "module",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "motion": "^10.15.5"
+  },
+  "devDependencies": {
+    "parcel": "^2.8.3"
+  }
+}
+
+
